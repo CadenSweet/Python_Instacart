@@ -15,7 +15,7 @@ segmentation based on the provided criteria.
 
 ## Data
 
--Customer Data Set
--Data Dictionary
+- Customer Data Set
+- Data Dictionary
 
-The Instacart Online Grocery Shopping Dataset 2017 came [from](https://www.instacart.com/datasets/grocery-shopping-2017)
+The Instacart Online Grocery Shopping Dataset 2017 came from their [website](https://www.instacart.com/datasets/grocery-shopping-2017)
